@@ -1,3 +1,20 @@
+# Neighbourhood Hackathon by MLH
+
+# BizzIn
+
+This is a web app for Businessman-Investor consult.
+
+# Features
+
+--> BizzIn allows Businessman to connect with investors to enhance their business and also the investors to connect with the business authorities by <b>Chat Section. </b>
+
+-->  It allows the users to pin business companies according to their choices and observe its detailed economic stats. We think <b> it will help the new start up companies to grow more as they will get to be noticed by the investors.</b>
+
+--> It also allows users to see business companies by <b> (1)  Industry types </b><b> (2)  Economic Stats  </b><b> (3)  Need of funds </b>
+--> It allows the business authorities to find proper investors for their company.
+--> Users can also see the articles on current business and economic stats.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
