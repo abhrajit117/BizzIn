@@ -1,0 +1,200 @@
+/* .nav{
+    width: 100vw;
+    
+    display: ;
+} */
+/* .logo{
+    display: block;
+    left: 5rem;
+    right: 2rem;
+} */
+.nav {
+    width: 100vw;
+    position: sticky;
+        display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:var(--color-bg);
+    padding: 1vh 5vw  ;
+}
+.logotext{
+    margin-top: -.5rem;
+    color: var(--color-white);
+    font-size: small;
+}
+.logo a {
+  
+    text-decoration: none;
+}
+.logo img{
+    height: 2.5rem;
+}
+
+.profile a {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+
+nav {
+    background: var(--color-primary-variant);
+    width: max-content;
+    height: 5rem;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0 0.1rem;
+    display: flex;
+    border-radius: 17px;
+    backdrop-filter: blur(25px);
+    justify-content: space-between;
+    width: 90vw;
+    /* display: block; */
+    /* z-index: 2; */
+    /* position: fixed; */
+    /* left: 50%; */
+    /* transform: translateX(-50%); */
+    /* bottom: 1.5rem; */
+        /* gap: 1rem; */
+        /* height: 69px; */
+    
+       
+}
+
+nav a {
+    background: transparent;
+    padding: 1rem 5vw;
+    border-radius: 50%;
+    display: flex;
+    color: var(--color-white);
+    font-size: 1.3rem;
+    margin: auto;
+    text-decoration: none;
+}
+
+
+
+nav a:hover {
+    /* background: rgba(0, 0, 0, 0.3); */
+    background: rgba(255, 255, 255, 0.23);
+        border-radius: 15px;
+}
+
+nav a.active {
+    /* background: var(--color-bg); */
+    background: rgba(255, 255, 255, 0.23);
+        border-radius: 15px;
+    color: var(--color-white);
+    /* padding: 1rem; */
+}
+
+.search-container {
+    position: relative;
+    margin: 0 auto;
+    width: 90vw;
+    /* padding: 2vw; */
+}
+.search-container> input{
+        margin-top: .5rem;
+            /* width: 18rem; */
+            height: 50px;
+            /* border-radius: .1rem; */
+            background-repeat: no-repeat;
+            padding: 3rem;
+            background-position-x: 1rem;
+            background-position-y: 1rem;
+            
+}
+input{
+                padding: 3rem;
+}
+
+.search-container input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 50px;
+    background-color: #f4f4f4;
+    font-size: 16px;
+    color: #333;
+}
+
+.search-container button[type="submit"] {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.fa-search {
+    color: #333;
+    font-size: 20px;
+}
+
+
+
+
+/* ............................................................................ */
+
+
+ /* Base styles for the swiper container */
+ .swiper-container {
+     width: 90vw;
+     margin: 1rem auto;
+     height: 200px;
+     overflow: hidden;
+ }
+
+ /* Wrapper for the swiper slides */
+ .swiper-wrapper {
+    margin-top: 1vh;
+    /* background-size: contain; */
+    
+    width: 100%;
+     display: flex;
+     transition-duration: 0ms;
+     overflow-x: scroll;
+     scroll-behavior: smooth;
+     /* Move the wrapper 145 pixels to the left */
+ }
+
+ /* Individual swiper slide */
+ .swiper-slide {
+    padding: 1rem;
+     min-width: 200px;
+     /* Set the width of each slide to be 140 pixels */
+     height: 150px;
+     /* Set the height of each slide to be 100% of its parent container */
+     margin-right: 30px;
+     /* Add a 30 pixel margin to the right of each slide */
+     border-radius: 10px;
+     
+     display: flex;
+     /* Use flexbox layout for each slide */
+     /* justify-content: center; */
+     /* Center the content horizontally in each slide */
+    
+     /* Set the font size of the text in each slide to be 32 pixels */
+     font-weight: bold;
+     /* Set the font weight of the text in each slide to be bold */
+     color: #fff;
+     /* Set the color of the text in each slide to be white */
+     transition: transform 0.3s ease-out;
+     /* Add a transition effect for the transform property */
+ }
+
+
+ 
+ .business1 {
+     font-family: 'Archivo Black';
+     font-size: 1.4rem;
+    
+ }
+ .business2 {
+    font-family: 'Archivo Black';
+    font-size: 1.4rem;
+}

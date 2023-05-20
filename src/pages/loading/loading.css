@@ -1,0 +1,19 @@
+
+.frame{
+    display: flex;
+    justify-content: center;
+  align-items: center;
+    /* height: 100vh; */
+    width: 100vw;
+    height: 100vh;
+    background-color: #040F16;
+}
+.curve{
+  border-radius: 1rem;
+}
+.imge{
+  margin-bottom: 1rem;
+}
+/* .pac{
+    color: #3BA99C;
+} */
