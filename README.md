@@ -2,6 +2,8 @@
 
 # BizzIn
 
+<img src="https://drive.google.com/file/d/1xm-njXjw60dOdLU0D0vRDRR1d8SIzPiz/view?usp=sharing" alt="logo" style="max-width:100%;">
+
 This is a web app for Businessman-Investor consult.
 
 # Features
