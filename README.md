@@ -3,17 +3,7 @@
 # 📈 BizzIn 📉
 
 
-![home_dashboard_chats](https://github.com/abhrajit117/BizzIn/assets/78528757/8f06f9c7-5e13-4dd5-acb7-fe2eb521fa15)
-![login](https://github.com/abhrajit117/BizzIn/assets/78528757/e126279d-77f8-48f6-9837-2de71ececada)
-![home_dashboard_explore](https://github.com/abhrajit117/BizzIn/assets/78528757/b98d6e71-8e9e-49fc-97dc-bfd8fd944a05)
-![google signin](https://github.com/abhrajit117/BizzIn/assets/78528757/75edbfae-ad20-4d68-9c34-359d044a7b2a)
-![start](https://github.com/abhrajit117/BizzIn/assets/78528757/6a26fc2e-275a-437b-b3f8-5bf30ea9317c)
-![loader](https://github.com/abhrajit117/BizzIn/assets/78528757/45a39bf6-77d5-49af-9eb0-098ebb5e2629)
-![home_dashboard_chats (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/6f6c18d2-2d84-460a-b361-ff37986c5f1f)
-![home_dashboard_stats](https://github.com/abhrajit117/BizzIn/assets/78528757/74b6d103-7ce8-40b4-adea-6cc054da8bfb)
-![home_dashboard_articles](https://github.com/abhrajit117/BizzIn/assets/78528757/034c6742-1c3b-4d8c-9066-63372730e70a)
-![home_dashboard_explore (2)](https://github.com/abhrajit117/BizzIn/assets/78528757/aa05537b-3fbb-4928-bb96-3530a47cdcbc)
-![home_dashboard_explore (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/077aa92e-7a03-4450-b615-6fac359a5e5b)
+
 
 This is a web app for Businessman-Investor consult.
 
@@ -32,6 +22,18 @@ This is a web app for Businessman-Investor consult.
 
 📌📌--> Users can also see the articles on current business and economic stats.📝📑
 
+![loader](https://github.com/abhrajit117/BizzIn/assets/78528757/45a39bf6-77d5-49af-9eb0-098ebb5e2629)
+![start](https://github.com/abhrajit117/BizzIn/assets/78528757/6a26fc2e-275a-437b-b3f8-5bf30ea9317c)
+![login](https://github.com/abhrajit117/BizzIn/assets/78528757/e126279d-77f8-48f6-9837-2de71ececada)
+![google signin](https://github.com/abhrajit117/BizzIn/assets/78528757/75edbfae-ad20-4d68-9c34-359d044a7b2a)
+![home_dashboard_explore](https://github.com/abhrajit117/BizzIn/assets/78528757/b98d6e71-8e9e-49fc-97dc-bfd8fd944a05)
+![home_dashboard_explore (2)](https://github.com/abhrajit117/BizzIn/assets/78528757/aa05537b-3fbb-4928-bb96-3530a47cdcbc)
+![home_dashboard_explore (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/077aa92e-7a03-4450-b615-6fac359a5e5b)
+![home_dashboard_chats](https://github.com/abhrajit117/BizzIn/assets/78528757/8f06f9c7-5e13-4dd5-acb7-fe2eb521fa15)
+
+![home_dashboard_chats (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/6f6c18d2-2d84-460a-b361-ff37986c5f1f)
+![home_dashboard_stats](https://github.com/abhrajit117/BizzIn/assets/78528757/74b6d103-7ce8-40b4-adea-6cc054da8bfb)
+![home_dashboard_articles](https://github.com/abhrajit117/BizzIn/assets/78528757/034c6742-1c3b-4d8c-9066-63372730e70a)
 
 # Getting Started with Create React App
 
