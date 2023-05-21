@@ -2,6 +2,7 @@
 
 # 📈 BizzIn 📉
 
+![home_dashboard_investor](https://github.com/abhrajit117/BizzIn/assets/78528757/7b9ef175-5c01-4ddc-954d-eda4d5996bc9)
 
 
 
