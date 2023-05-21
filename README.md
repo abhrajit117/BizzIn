@@ -61,6 +61,8 @@ And on clicking the Continue with Google button, the <b> GoogleSignInWithPopUp s
 # Hence comes the chat section. Here business authorities and investors can contact with each other by the real time chatting.
 ![home_dashboard_chats](https://github.com/abhrajit117/BizzIn/assets/78528757/8f06f9c7-5e13-4dd5-acb7-fe2eb521fa15)
 ![home_dashboard_chats (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/6f6c18d2-2d84-460a-b361-ff37986c5f1f)
+# In stat, users can choose his/her favourite business profiles to notice their economic stats. By these, the small companies, start ups will get more opportunities to get noticed by investors as well as other business authorities. So the chance of investment as well as the chance of collaborating with other companies will increase. We think it is gonna be a very significant feature.
+# In articles, news about technology, stock markets will be shown.
 ![home_dashboard_stats](https://github.com/abhrajit117/BizzIn/assets/78528757/74b6d103-7ce8-40b4-adea-6cc054da8bfb)
 ![home_dashboard_articles](https://github.com/abhrajit117/BizzIn/assets/78528757/034c6742-1c3b-4d8c-9066-63372730e70a)
 
