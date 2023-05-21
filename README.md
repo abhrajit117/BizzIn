@@ -2,7 +2,8 @@
 
 # 📈 BizzIn 📉
 
-<img src="https://drive.google.com/file/d/1xm-njXjw60dOdLU0D0vRDRR1d8SIzPiz/view?usp=sharing" alt="logo" style="max-width:100%;">
+
+![home_dashboard_chats](https://github.com/abhrajit117/BizzIn/assets/78528757/8f06f9c7-5e13-4dd5-acb7-fe2eb521fa15)
 
 This is a web app for Businessman-Investor consult.
 
