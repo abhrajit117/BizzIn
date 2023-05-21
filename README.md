@@ -2,8 +2,6 @@
 
 # 📈 BizzIn 📉
 
-![home_dashboard_investor](https://github.com/abhrajit117/BizzIn/assets/78528757/7b9ef175-5c01-4ddc-954d-eda4d5996bc9)
-
 
 
 This is a web app for Businessman-Investor consult.
@@ -54,7 +52,10 @@ And on clicking the Continue with Google button, the <b> GoogleSignInWithPopUp s
 
 ![home_dashboard_explore](https://github.com/abhrajit117/BizzIn/assets/78528757/b98d6e71-8e9e-49fc-97dc-bfd8fd944a05)
 ![home_dashboard_explore (2)](https://github.com/abhrajit117/BizzIn/assets/78528757/aa05537b-3fbb-4928-bb96-3530a47cdcbc)
+# Hence comes the chat section. Here business authorities and investors can contact with each other by the real time chatting.
 ![home_dashboard_explore (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/077aa92e-7a03-4450-b615-6fac359a5e5b)
+![home_dashboard_investor](https://github.com/abhrajit117/BizzIn/assets/78528757/7b9ef175-5c01-4ddc-954d-eda4d5996bc9)
+
 ![home_dashboard_chats](https://github.com/abhrajit117/BizzIn/assets/78528757/8f06f9c7-5e13-4dd5-acb7-fe2eb521fa15)
 
 ![home_dashboard_chats (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/6f6c18d2-2d84-460a-b361-ff37986c5f1f)
