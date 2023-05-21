@@ -30,7 +30,10 @@ This is a web app for Businessman-Investor consult.
 
 # Firebase Authentication -->
 
-# If the user click on LogIn button, it will render to the Log In page where users can log in by email and password...
+
+#If the user click on LogIn button, it will render to the Log In page where users can log in <b> by email and password...</b>
+And on clicking the Continue with Google button, the <b> GoogleSignInWithPopUp screen </b> will come...
+
 
 ![login](https://github.com/abhrajit117/BizzIn/assets/78528757/e126279d-77f8-48f6-9837-2de71ececada)
 ![google signin](https://github.com/abhrajit117/BizzIn/assets/78528757/75edbfae-ad20-4d68-9c34-359d044a7b2a)
