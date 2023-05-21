@@ -52,12 +52,14 @@ And on clicking the Continue with Google button, the <b> GoogleSignInWithPopUp s
 
 ![home_dashboard_explore](https://github.com/abhrajit117/BizzIn/assets/78528757/b98d6e71-8e9e-49fc-97dc-bfd8fd944a05)
 ![home_dashboard_explore (2)](https://github.com/abhrajit117/BizzIn/assets/78528757/aa05537b-3fbb-4928-bb96-3530a47cdcbc)
-# Hence comes the chat section. Here business authorities and investors can contact with each other by the real time chatting.
+# In the Investors sectiion, Business authorities can find investors according to -->
+# 1) Investors in user's area
+# 2) Investors by capitals
+# 3) Investors interested in corresponding domain
 ![home_dashboard_explore (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/077aa92e-7a03-4450-b615-6fac359a5e5b)
 ![home_dashboard_investor](https://github.com/abhrajit117/BizzIn/assets/78528757/7b9ef175-5c01-4ddc-954d-eda4d5996bc9)
-
+# Hence comes the chat section. Here business authorities and investors can contact with each other by the real time chatting.
 ![home_dashboard_chats](https://github.com/abhrajit117/BizzIn/assets/78528757/8f06f9c7-5e13-4dd5-acb7-fe2eb521fa15)
-
 ![home_dashboard_chats (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/6f6c18d2-2d84-460a-b361-ff37986c5f1f)
 ![home_dashboard_stats](https://github.com/abhrajit117/BizzIn/assets/78528757/74b6d103-7ce8-40b4-adea-6cc054da8bfb)
 ![home_dashboard_articles](https://github.com/abhrajit117/BizzIn/assets/78528757/034c6742-1c3b-4d8c-9066-63372730e70a)
