@@ -37,6 +37,21 @@ And on clicking the Continue with Google button, the <b> GoogleSignInWithPopUp s
 
 ![login](https://github.com/abhrajit117/BizzIn/assets/78528757/e126279d-77f8-48f6-9837-2de71ececada)
 ![google signin](https://github.com/abhrajit117/BizzIn/assets/78528757/75edbfae-ad20-4d68-9c34-359d044a7b2a)
+
+#All the informations of business authorities and investors will be stored in <b>FireStore DataBase</b>
+<div>
+    In Home Screen the business profiles will be shownn by --->
+</div>
+
+# 1) By Industry types
+# 2) By Stats
+# 3) By Need of funds
+
+<div>
+    # Users can also search businesses by these filters.
+  <br></br>
+</div>
+
 ![home_dashboard_explore](https://github.com/abhrajit117/BizzIn/assets/78528757/b98d6e71-8e9e-49fc-97dc-bfd8fd944a05)
 ![home_dashboard_explore (2)](https://github.com/abhrajit117/BizzIn/assets/78528757/aa05537b-3fbb-4928-bb96-3530a47cdcbc)
 ![home_dashboard_explore (1)](https://github.com/abhrajit117/BizzIn/assets/78528757/077aa92e-7a03-4450-b615-6fac359a5e5b)
