@@ -22,8 +22,15 @@ This is a web app for Businessman-Investor consult.
 
 📌📌--> Users can also see the articles on current business and economic stats.📝📑
 
+# The Loading Page and The Start page -->
+
 ![loader](https://github.com/abhrajit117/BizzIn/assets/78528757/45a39bf6-77d5-49af-9eb0-098ebb5e2629)
 ![start](https://github.com/abhrajit117/BizzIn/assets/78528757/6a26fc2e-275a-437b-b3f8-5bf30ea9317c)
+
+# Firebase Authentication -->
+
+# If the user click on LogIn button, it will render to the Log In page where users can log in by email and password...
+
 ![login](https://github.com/abhrajit117/BizzIn/assets/78528757/e126279d-77f8-48f6-9837-2de71ececada)
 ![google signin](https://github.com/abhrajit117/BizzIn/assets/78528757/75edbfae-ad20-4d68-9c34-359d044a7b2a)
 ![home_dashboard_explore](https://github.com/abhrajit117/BizzIn/assets/78528757/b98d6e71-8e9e-49fc-97dc-bfd8fd944a05)
